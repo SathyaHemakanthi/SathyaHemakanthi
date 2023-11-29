@@ -2,7 +2,7 @@
 
 ### Hello, I'm Sathya 👋
 
-I'm a passionate second year undergraduate from Sri Lanka. Enthusiastic of tech, scientific thinking and open source development.
+I'm a passionate second year undergraduate from Sri Lanka, with enthusiasm for technology, scientific thinking, and innovative projects.
 
 - 🌱 Currently learning Back-end Frameworks.
 - 👯 Looking to collaborate on Industrial Projects.
