@@ -1,20 +1,17 @@
-### Hi there 👋
+[![Sathya's GitHub Banner](./assets/banner.png)](https://www.linkedin.com/in/sathyahemakanthi/)
 
-<!--
-**SathyaHemakanthi/SathyaHemakanthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Sathya 👋
 
-Here are some ideas to get you started:
+I'm a passionate second year undergraduate from Sri Lanka. Enthusiastic of tech, scientific thinking and open source development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Back-end Frameworks.
+- 👯 Looking to collaborate on Industrial Projects.
+- 🎓 Following National Diploma in Technology in IT at Institute of Technology University of Moratuwa.
+- 💬 You can reach me via LinkedIn.
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathyahemakanthi/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ksathyahemakanthi))
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Sathya15)
 
 <div>
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=SathyaHemakanthi&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
