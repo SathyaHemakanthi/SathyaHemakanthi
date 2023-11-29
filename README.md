@@ -21,7 +21,4 @@ I'm a passionate second year undergraduate from Sri Lanka. Enthusiastic of tech,
 
 <h3 align="left">Holopin Board:</h3>
 
-[![An image of @madhawa97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhawa97)](https://holopin.io/@madhawa97)
-
-
-[![Visitor Count](https://komarev.com/ghpvc/?username=madhawa97&style=for-the-badge&color=blueviolet)]()
+[![Visitor Count](https://komarev.com/ghpvc/?username=SathyaHemakanthi&style=for-the-badge&color=blueviolet)]()
