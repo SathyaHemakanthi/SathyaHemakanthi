@@ -13,7 +13,11 @@ I'm a passionate second year undergraduate from Sri Lanka, with enthusiasm for t
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ksathyahemakanthi)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Sathya15)
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathyaHemakanthi&show_icons=true&theme=nord&include_all_commits=true&count_private=true)
+ <div>
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=SathyaHemakanthi&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaHemakanthi&theme=nord&hide=jupyter%20notebook,hack"/></br>
+  <img height="225" src="https://streak-stats.demolab.com?user=SathyaHemakanthi&theme=nord&mode=weekly"/>
+ </div>
 
 <h3 align="left">Holopin Board:</h3>
 
