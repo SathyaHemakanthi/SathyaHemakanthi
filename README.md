@@ -15,13 +15,6 @@ I'm a passionate second year undergraduate from Sri Lanka, with enthusiasm for t
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathyaHemakanthi&show_icons=true&theme=nord&include_all_commits=true&count_private=true)
 
-<div>
-
-
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaHemakanthi&theme=nord&hide=jupyter%20notebook,hack"/></br>
-  <img height="225" src="https://streak-stats.demolab.com?user=SathyaHemakanthi&theme=nord&mode=weekly"/>
-</div>
-
 <h3 align="left">Holopin Board:</h3>
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=SathyaHemakanthi&style=for-the-badge&color=blueviolet)]()
