@@ -14,9 +14,15 @@ I'm a passionate second year undergraduate from Sri Lanka, with enthusiasm for t
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Sathya15)
 
  <div>
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=SathyaHemakanthi&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaHemakanthi&theme=nord&hide=jupyter%20notebook,hack"/></br>
-  <img height="225" src="https://streak-stats.demolab.com?user=SathyaHemakanthi&theme=nord&mode=weekly"/>
+  <!-- GitHub Stats (including private commits) -->
+<img height="225" src="https://github-readme-stats.vercel.app/api?username=SathyaHemakanthi&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+
+<!-- Top Languages (excluding specific languages) -->
+<img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaHemakanthi&theme=nord&hide=jupyter%20notebook,hack"/>
+
+<!-- GitHub Streak Stats -->
+<img height="225" src="https://streak-stats.demolab.com?user=SathyaHemakanthi&theme=nord&mode=weekly&count_private=true"/>
+
  </div>
 
 <h3 align="left">Holopin Board:</h3>
