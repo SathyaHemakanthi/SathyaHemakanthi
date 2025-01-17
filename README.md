@@ -19,13 +19,13 @@ I'm a passionate second year undergraduate from Sri Lanka, with enthusiasm for t
 <img height="225" src="https://streak-stats.demolab.com?user=SathyaHemakanthi&theme=nord&mode=weekly&count_private=true"/>
  </div>
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SathyaHemakanthi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SathyaHemakanthi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
